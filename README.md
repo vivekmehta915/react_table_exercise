@@ -4,7 +4,7 @@ App to list users in table view and perform create / update & delete operations 
 
 # Demo
 
-You can [ClickMe](https://github.com/facebook/create-react-app) to view online.
+You can [ClickMe](http://vivekmehta915.github.io/react_table_exercise) to view online.
 
 ## Available Scripts
 
