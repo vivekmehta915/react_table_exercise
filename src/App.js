@@ -155,7 +155,7 @@ const App = () => {
           onChange={handleAddFormChange}
         />
         <input
-          type="text"
+          type="number"
           name="phoneNumber"
           required="required"
           placeholder="Phone number"
